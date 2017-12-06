@@ -21,10 +21,6 @@ function initializeGrid(level){
   return grid;
 }
 
-function move(direction, levelSideLength){
-
-}
-
 function fillLevel(grid, level){
   if(level == 1) return;
 
